@@ -1,2 +1,1 @@
-My First Git Project
-typo 1
+My First Git Project 1
